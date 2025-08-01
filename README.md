@@ -72,6 +72,33 @@ Small and marginal farmers often lack access to reliable and timely agricultural
 - Personalized dashboard for individual farms
 
 ---
+## 📸 Results
+
+Below are sample interactions with the **FarmFriend AI Agent**, demonstrating its ability to provide accurate, real-time, and context-aware farming advice using IBM Cloud and RAG architecture.
+
+| Interaction 1 | Interaction 2 |
+|---------------|---------------|
+| ![Screenshot 1](./ASSETS/screenshot1.png) | ![Screenshot 2](./ASSETS/screenshot2.png) |
+
+| Interaction 3 | Interaction 4 |
+|---------------|---------------|
+| ![Screenshot 3](./ASSETS/screenshot3.png) | ![Screenshot 4](./ASSETS/screenshot4.png) |
+
+| Interaction 5 | Interaction 6 |
+|---------------|---------------|
+| ![Screenshot 5](./ASSETS/screenshot5.png) | ![Screenshot 6](./ASSETS/screenshot6.png) |
+
+| Interaction 7 | Interaction 8 |
+|---------------|---------------|
+| ![Screenshot 7](./ASSETS/screenshot7.png) | ![Screenshot 8](./ASSETS/screenshot8.png) |
+
+---
+### 🧠 Observations:
+- ✔️ The agent successfully handled multilingual input queries.
+- ✔️ Responses were context-aware, relevant, and based on updated data sources.
+- ✔️ Queries included crop suggestions, mandi rates, pest control, and weather-based advice.
+
+---
 
 ## 🙌 Acknowledgements
 
